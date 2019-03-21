@@ -24,4 +24,9 @@ public class ItemsController {
 
         return "itemDetail";
     }
+
+
+    public void haha(){
+        System.out.println("你好");
+    }
 }
