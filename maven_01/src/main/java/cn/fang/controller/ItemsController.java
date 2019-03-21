@@ -26,7 +26,4 @@ public class ItemsController {
     }
 
 
-    public void haha(){
-        System.out.println("你好");
-    }
 }
