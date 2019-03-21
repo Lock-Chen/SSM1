@@ -23,6 +23,8 @@ public class ItemsController {
         model.addAttribute("item",item);
 
         return "itemDetail";
+
+        //你好
     }
 
 
